@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "manok",
+    "Category": "Food",
+    "Amount": 503.00,
+    "PaymentMethod": "Cash",
+    "IsRecurring": false,
+    "Notes": ""
+  },
+  {
+    "Id": 2,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "baboy",
+    "Category": "Food",
+    "Amount": 600.00,
+    "PaymentMethod": "Cash",
+    "IsRecurring": false,
+    "Notes": ""
+  },
+  {
+    "Id": 3,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "bicol",
+    "Category": "Others",
+    "Amount": 9000.00,
+    "PaymentMethod": "Cash",
+    "IsRecurring": false,
+    "Notes": ""
+  }
+]

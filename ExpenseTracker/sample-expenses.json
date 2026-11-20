@@ -1,0 +1,8 @@
+[
+  { "Id": 1, "Date": "2026-11-05T00:00:00", "Description": "Groceries", "Category": "Food", "Amount": 1180.50, "PaymentMethod": "GCash", "IsRecurring": false, "Notes": "" },
+  { "Id": 2, "Date": "2026-11-08T00:00:00", "Description": "Movie with friends", "Category": "Entertainment", "Amount": 350.00, "PaymentMethod": "Card", "IsRecurring": false, "Notes": "" },
+  { "Id": 3, "Date": "2026-11-10T00:00:00", "Description": "Internet", "Category": "Bills", "Amount": 1299.00, "PaymentMethod": "GCash", "IsRecurring": true, "Notes": "Monthly plan" },
+  { "Id": 4, "Date": "2026-11-12T00:00:00", "Description": "Printing of report", "Category": "School", "Amount": 45.00, "PaymentMethod": "Cash", "IsRecurring": false, "Notes": "" },
+  { "Id": 5, "Date": "2026-11-12T00:00:00", "Description": "Jeepney fare", "Category": "Transportation", "Amount": 26.00, "PaymentMethod": "Cash", "IsRecurring": false, "Notes": "" },
+  { "Id": 6, "Date": "2026-11-13T00:00:00", "Description": "Lunch", "Category": "Food", "Amount": 120.00, "PaymentMethod": "Cash", "IsRecurring": false, "Notes": "" }
+]
